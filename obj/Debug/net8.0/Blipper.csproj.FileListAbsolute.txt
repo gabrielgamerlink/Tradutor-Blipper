@@ -1,0 +1,14 @@
+C:\Users\HOOT\Documents\Code_\C#\Blipper tradutor\Blipper\bin\Debug\net8.0\Blipper.exe
+C:\Users\HOOT\Documents\Code_\C#\Blipper tradutor\Blipper\bin\Debug\net8.0\Blipper.deps.json
+C:\Users\HOOT\Documents\Code_\C#\Blipper tradutor\Blipper\bin\Debug\net8.0\Blipper.runtimeconfig.json
+C:\Users\HOOT\Documents\Code_\C#\Blipper tradutor\Blipper\bin\Debug\net8.0\Blipper.dll
+C:\Users\HOOT\Documents\Code_\C#\Blipper tradutor\Blipper\bin\Debug\net8.0\Blipper.pdb
+C:\Users\HOOT\Documents\Code_\C#\Blipper tradutor\Blipper\obj\Debug\net8.0\Blipper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOOT\Documents\Code_\C#\Blipper tradutor\Blipper\obj\Debug\net8.0\Blipper.AssemblyInfoInputs.cache
+C:\Users\HOOT\Documents\Code_\C#\Blipper tradutor\Blipper\obj\Debug\net8.0\Blipper.AssemblyInfo.cs
+C:\Users\HOOT\Documents\Code_\C#\Blipper tradutor\Blipper\obj\Debug\net8.0\Blipper.csproj.CoreCompileInputs.cache
+C:\Users\HOOT\Documents\Code_\C#\Blipper tradutor\Blipper\obj\Debug\net8.0\Blipper.dll
+C:\Users\HOOT\Documents\Code_\C#\Blipper tradutor\Blipper\obj\Debug\net8.0\refint\Blipper.dll
+C:\Users\HOOT\Documents\Code_\C#\Blipper tradutor\Blipper\obj\Debug\net8.0\Blipper.pdb
+C:\Users\HOOT\Documents\Code_\C#\Blipper tradutor\Blipper\obj\Debug\net8.0\Blipper.genruntimeconfig.cache
+C:\Users\HOOT\Documents\Code_\C#\Blipper tradutor\Blipper\obj\Debug\net8.0\ref\Blipper.dll
