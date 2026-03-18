@@ -9,6 +9,7 @@ class Program
 
     static void EscolherOpcao()
     {
+        // blabla bla
         bool OpcaoValida = false;
         string opcaoEmTexto;
         int numeroOpcao = 0;
