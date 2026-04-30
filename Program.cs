@@ -78,7 +78,11 @@ class Program
         Console.WriteLine($"A tradução é \n" + p.TraducaoCriptografada(mensagem));
     }
 
-    // Método de instância (não estático)
+    /// <summary>
+    /// Função que criptografa a menssagem
+    /// </summary>
+    /// <param name="MensagemACriptografar">Menssagem a ser criptografar</param>
+    /// <returns>A menssagem criptografia</returns>
     string TraducaoCriptografada(string MensagemACriptografar)
     {
         char[] caracteresCriptografados = new char[MensagemACriptografar.Length];
