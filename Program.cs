@@ -95,7 +95,7 @@ class Program
     {
         switch (CaractereASerCriptografado)
         {
-            case 'q' or 'Q': // ERRO CORRIGIDO: Faltava espaço entre 'q' e o operador 'or'
+            case 'q' or 'Q': 
                 return '+';
 
             case 'w' or 'W':
